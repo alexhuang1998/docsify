@@ -6,3 +6,5 @@
 2. b
 3. c
 4. d
+
+$$f \left(x\right)=\sin x$$
